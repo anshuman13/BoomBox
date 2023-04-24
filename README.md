@@ -84,8 +84,6 @@ There are `revert.ps1` and `revert.sh` scripts that are to be used to restore a 
 
 ## Todo
 - [ ]  Sandbox anti-evasion techniques
-- [ ]  Improve revert scripts to not rely on sleep
-- [ ]  Revert sandbox to clean snapshot on reboot
 - [ ]  Support additional Vagrant providers
 
 ## Contributing
